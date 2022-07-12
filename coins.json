@@ -1,0 +1,252 @@
+[
+    {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "symbol": "btc"
+    },
+    {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "symbol": "eth"
+    },
+    {
+        "id": "tether",
+        "name": "Tether",
+        "symbol": "usdt"
+    },
+    {
+        "id": "usd-coin",
+        "name": "USD Coin",
+        "symbol": "usdc"
+    },
+    {
+        "id": "binancecoin",
+        "name": "BNB",
+        "symbol": "bnb"
+    },
+    {
+        "id": "binance-usd",
+        "name": "Binance USD",
+        "symbol": "busd"
+    },
+    {
+        "id": "ripple",
+        "name": "XRP",
+        "symbol": "xrp"
+    },
+    {
+        "id": "cardano",
+        "name": "Cardano",
+        "symbol": "ada"
+    },
+    {
+        "id": "solana",
+        "name": "Solana",
+        "symbol": "sol"
+    },
+    {
+        "id": "dogecoin",
+        "name": "Dogecoin",
+        "symbol": "doge"
+    },
+    {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "symbol": "dot"
+    },
+    {
+        "id": "dai",
+        "name": "Dai",
+        "symbol": "dai"
+    },
+    {
+        "id": "tron",
+        "name": "TRON",
+        "symbol": "trx"
+    },
+    {
+        "id": "shiba-inu",
+        "name": "Shiba Inu",
+        "symbol": "shib"
+    },
+    {
+        "id": "leo-token",
+        "name": "LEO Token",
+        "symbol": "leo"
+    },
+    {
+        "id": "avalanche-2",
+        "name": "Avalanche",
+        "symbol": "avax"
+    },
+    {
+        "id": "wrapped-bitcoin",
+        "name": "Wrapped Bitcoin",
+        "symbol": "wbtc"
+    },
+    {
+        "id": "matic-network",
+        "name": "Polygon",
+        "symbol": "matic"
+    },
+    {
+        "id": "staked-ether",
+        "name": "Lido Staked Ether",
+        "symbol": "steth"
+    },
+    {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "symbol": "ltc"
+    },
+    {
+        "id": "ftx-token",
+        "name": "FTX",
+        "symbol": "ftt"
+    },
+    {
+        "id": "okb",
+        "name": "OKB",
+        "symbol": "okb"
+    },
+    {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "symbol": "link"
+    },
+    {
+        "id": "crypto-com-chain",
+        "name": "Cronos",
+        "symbol": "cro"
+    },
+    {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "symbol": "uni"
+    },
+    {
+        "id": "stellar",
+        "name": "Stellar",
+        "symbol": "xlm"
+    },
+    {
+        "id": "near",
+        "name": "NEAR Protocol",
+        "symbol": "near"
+    },
+    {
+        "id": "cosmos",
+        "name": "Cosmos Hub",
+        "symbol": "atom"
+    },
+    {
+        "id": "monero",
+        "name": "Monero",
+        "symbol": "xmr"
+    },
+    {
+        "id": "chain-2",
+        "name": "Chain",
+        "symbol": "xcn"
+    },
+    {
+        "id": "algorand",
+        "name": "Algorand",
+        "symbol": "algo"
+    },
+    {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "symbol": "etc"
+    },
+    {
+        "id": "theta-fuel",
+        "name": "Theta Fuel",
+        "symbol": "tfuel"
+    },
+    {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "symbol": "bch"
+    },
+    {
+        "id": "vechain",
+        "name": "VeChain",
+        "symbol": "vet"
+    },
+    {
+        "id": "internet-computer",
+        "name": "Internet Computer",
+        "symbol": "icp"
+    },
+    {
+        "id": "flow",
+        "name": "Flow",
+        "symbol": "flow"
+    },
+    {
+        "id": "decentraland",
+        "name": "Decentraland",
+        "symbol": "mana"
+    },
+    {
+        "id": "the-sandbox",
+        "name": "The Sandbox",
+        "symbol": "sand"
+    },
+    {
+        "id": "frax",
+        "name": "Frax",
+        "symbol": "frax"
+    },
+    {
+        "id": "tezos",
+        "name": "Tezos",
+        "symbol": "xtz"
+    },
+    {
+        "id": "hedera-hashgraph",
+        "name": "Hedera",
+        "symbol": "hbar"
+    },
+    {
+        "id": "apecoin",
+        "name": "ApeCoin",
+        "symbol": "ape"
+    },
+    {
+        "id": "true-usd",
+        "name": "TrueUSD",
+        "symbol": "tusd"
+    },
+    {
+        "id": "filecoin",
+        "name": "Filecoin",
+        "symbol": "fil"
+    },
+    {
+        "id": "elrond-erd-2",
+        "name": "Elrond",
+        "symbol": "egld"
+    },
+    {
+        "id": "theta-token",
+        "name": "Theta Network",
+        "symbol": "theta"
+    },
+    {
+        "id": "axie-infinity",
+        "name": "Axie Infinity",
+        "symbol": "axs"
+    },
+    {
+        "id": "quant-network",
+        "name": "Quant",
+        "symbol": "qnt"
+    },
+    {
+        "id": "helium",
+        "name": "Helium",
+        "symbol": "hnt"
+    }
+]
